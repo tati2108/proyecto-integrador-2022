@@ -15,9 +15,6 @@ MAIL: clodirosmey@gmail.com
 DNI: 26382182
 EMAIL: anibal.gm9@gmail.com
 
--MERCEDES MÓNICA VILASECA FARRÁN
-DNI: 36275420
-EMAIL: m.vilasecafarran@gmail.com
 
 ## SOBRE EL PROYECTO:
 
